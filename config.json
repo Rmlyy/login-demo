@@ -2,6 +2,6 @@
 	"port": 4444,
 	"credentials": {
 		"user": "admin",
-		"password": "$2b$10$2Ox9yv8DjliF9Jxm9CV2hOdq9x9FwauRU.sfxu1iDr3H7GcResNkG"
+		"password": "demo"
 	}
 }
